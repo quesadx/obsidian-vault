@@ -2,11 +2,16 @@
 tags: [universidad, ingenieria-sistemas, eif210]
 created: 2026-02-28
 updated: 2026-03-06
+moc: "[[moc-ingenieria-sistemas-i]]"
 ---
 
 **Épica**
 
 Objetivo principal y que toma bastante tiempo finalizar.
+
+## Metodologías Ágiles
+
+## Gestión de Proyectos
 
 Por ejemplo: El sistema completo 
 

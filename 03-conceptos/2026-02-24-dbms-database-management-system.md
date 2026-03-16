@@ -2,6 +2,7 @@
 tags: [concepto, bases-datos]
 created: 2026-02-24
 updated: 2026-03-06
+moc: "[[moc-bases-de-datos]]"
 ---
 
 # DBMS (Database Management System)
