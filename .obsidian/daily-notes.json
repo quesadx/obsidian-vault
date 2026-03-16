@@ -1,0 +1,4 @@
+{
+  "folder": "06-diario",
+  "template": "00-dashboard/{{date}}-quick-note"
+}

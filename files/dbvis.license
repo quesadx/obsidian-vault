@@ -1,0 +1,11 @@
+# DbVisualizer license key
+dbvis.license.product        = DbVisualizer
+dbvis.license.edition        = Personal
+dbvis.license.id             = 2524077229 / #1
+dbvis.license.name           = Matteo Vargas
+dbvis.license.org            = Matteo Vargas
+dbvis.license.activation     = 2025-05-19
+dbvis.license.expire         = 2026-05-21
+dbvis.license.upgrade.expire = 2026-05-21
+dbvis.license.seal           = MCwCFD5wJP5fwbkxdeYm0rZiHeMTY+MuAhQqtFrwp8w6oHTBRN1X07eS9cQ2Yw==
+dbvis.license.version        = 5.*

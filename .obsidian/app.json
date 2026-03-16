@@ -1,0 +1,14 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notas rápidas",
+  "attachmentFolderPath": "Source",
+  "trashOption": "local",
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "vimMode": true,
+  "livePreview": true
+}
