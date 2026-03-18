@@ -1,6 +1,7 @@
 {
-  "cssTheme": "",
-  "accentColor": "#f1b81e",
+  "cssTheme": "Border",
+  "accentColor": "",
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "theme": "obsidian"
 }

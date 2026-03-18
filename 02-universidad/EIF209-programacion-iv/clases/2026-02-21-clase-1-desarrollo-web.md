@@ -7,28 +7,28 @@ tags:
 #### <mark style="background: #FFB8EBA6;">Analogía Base</mark>
 - **Internet:** Infraestructura de carreteras y rutas
 - **Web:** Servicio que usa la infraestructura para entregar paquetes
-- **HTTP/HTTPS:** Las reglas del envío 
-- **Navegador:** La persona mensajera 
-- **Servidor:** El centro que prepara y entrega la respuesta. 
-- **WWW:** Red informática global, corresponde a todas las redes interconectadas. 
+- **HTTP/HTTPS:** Las reglas del envío
+- **Navegador:** La persona mensajera
+- **Servidor:** El centro que prepara y entrega la respuesta.
+- **WWW:** Red informática global, corresponde a todas las redes interconectadas.
 - **DNS:** Domain Name System es el system que traduce de un nombre a una ip: Google.com -> 142.250.190.14
-- **TLS:** Transport layer security es el protocolo que protege y cifra los datos que viajan entre un navegador y un servidor 
+- **TLS:** Transport layer security es el protocolo que protege y cifra los datos que viajan entre un navegador y un servidor
 - **IP:** Es la dirección de un host
-- **URL:** Un recurso específico que quiero dentro de ese host 
+- **URL:** Un recurso específico que quiero dentro de ese host
 
 ### <mark style="background: #FFB8EBA6;">WWW</mark>
 **Brinda:**
 - Portabilidad implícita en sus sitemas
 - Despreocupación por de múltiples instalaciones
-- Corrección inmediata de errores 
+- Corrección inmediata de errores
 **Usada en sistemas:**
-- Transaccionales 
+- Transaccionales
 - Informativos/Publicación
-- Edición de contenido 
+- Edición de contenido
 **Ventajas:**
-- Facilidad de acceso 
+- Facilidad de acceso
 - Accesibilidad
-- Soporte mundial 
+- Soporte mundial
 
 ### <mark style="background: #FFB8EBA6;">Internet vs Web</mark>
 
@@ -49,30 +49,30 @@ Ingresar URL -> Resolver DNS -> Abrir conexión -> Negociar TLS -> Enviar y reci
 | Contiene: UI e interacción, parte lógica, validación de UX             | Contiene: Reglas de negocio, persistencia y seguridad. Nunca se debe confiar en validaciones de cliente **la seguridad vive en el servidor** |
 ### <mark style="background: #FFB8EBA6;">HTTP </mark>
 Es un protocolo de aplicación basado en mensajes, es stateless (el servidor no necesita la petición anterior para entender la actual). 
-**Contiene:** 
+**Contiene:**
 - Método: Verbos
-- URL: Recurso 
-- Headers: Metadatos 
+- URL: Recurso
+- Headers: Metadatos
 - Body: Datos
 - Status code: Código de respuesta
 #### <mark style="background: #ADCCFFA6;">Métodos HTTP </mark>
 - **Get:** Leer
 - **POST:** Crear o ejecutar una acción
 - **PUT:** Reemplazo completo (idempotente)
-- **PATCH:** Actualización parcial 
+- **PATCH:** Actualización parcial
 - **DELETE:** ELiminar
 #### <mark style="background: #ADCCFFA6;">Status Code</mark>
 **Éxito**
 - **200 OK:** Respuesta con contenido
 - **201 Created:** Creación
-- **204 No content:** Éxito sin body 
+- **204 No content:** Éxito sin body
 **Redirecciones**
-- **301:** Recurso movido de forma permanente 
+- **301:** Recurso movido de forma permanente
 - **302:** Indica que el recuso fue movido temporalmente
 **Errores Cliente**
 - **400:** Request mal formado
 - **401:** Sin autenticación válida
-- **403:** Sin permiso 
+- **403:** Sin permiso
 - **404:** No existe
 - **409:** Conflicto (la request es válida, pero no se puede procesar)
 - **422:** Validación.
@@ -86,21 +86,21 @@ Son el contrato invisible, contiene:
  - **Accept:** Que formato espera el cliente.
  - **Authorization:** Credenciales.
  - **Cache-Control / ETag:** Rendimiento y costos. Permiten reutilizar respuestas sin volver a pedirlas al servidor.
- - **CORS headers:** Acceso entre orígenes. Controlan el acceso. 
+ - **CORS headers:** Acceso entre orígenes. Controlan el acceso.
 
 #### <mark style="background: #ADCCFFA6;">Conceptos Web</mark>
 - **HTML:** HyperText Markup Languaje, conforma una codificación basada en etiquetas enfocado en dar la estructura básica de bloques de construcción de una página web.
 - **CSS:** Cascade Style Sheet hojas de estilo en cascada que conforman una codificación de los elementos HTML.
-- **JavaSript:** Lenguaje interpretado para uso del lado del cliente en páginas dinámicas. 
+- **JavaSript:** Lenguaje interpretado para uso del lado del cliente en páginas dinámicas.
 - **URL:** Un localizador de recursos uniforme.
-- **Aplicación:** Software de funciones especificas creado en ambiente WEB/Mobile 
-- **Sitio web:** Conjunto de elementos previamente diseñado bajo tecnología WEB. 
+- **Aplicación:** Software de funciones especificas creado en ambiente WEB/Mobile
+- **Sitio web:** Conjunto de elementos previamente diseñado bajo tecnología WEB.
 - **Cookie:** Información que el servidor recuerda para futuras sesiones.
 - **XSS:** Cross site scripting, el atacante ejecuta código dentro de un sitio web vulnerable.
-- **CSRF:** El atacante no ejecuta, si no que fuerza a enviar una solicitud legítima. 
+- **CSRF:** El atacante no ejecuta, si no que fuerza a enviar una solicitud legítima.
 
 #### <mark style="background: #ADCCFFA6;">Seguridad web</mark>
-HTTPS es HTTP + TLS, que aporta confidencialidad, integridad y autenticidad. 
+HTTPS es HTTP + TLS, que aporta confidencialidad, integridad y autenticidad.
 Algunos fallos típicos van desde mezclar HTTP dentro de HTTPS, certificados expirados o mal emitidos y configuración débil.
 **Checklist corto:**
 - **Credenciales seguras:** Nunca enviar por HTTP.
@@ -108,12 +108,34 @@ Algunos fallos típicos van desde mezclar HTTP dentro de HTTPS, certificados exp
 - **Validar entrada:** Sanitizar y validar siempre.
 - **Tokens seguros:** Evitar el localStorage (riesgo de XSS).
 - **CSP:** Content-Security-Policy si el stack lo permite.
-#### <mark style="background: #ADCCFFA6;">Rest</mark> 
+#### <mark style="background: #ADCCFFA6;">Rest</mark>
 Estilo arquitectónico para diseñar APIS sobre HTTP, contiene:
 - **Recursos:** Identificados por URL.
 - **Métodos HTTP:** Expresan intención.
-- **Representaciones:** JSON, XML.. 
-- **Stateless:** Sin estado entre request. 
+- **Representaciones:** JSON, XML..
+- **Stateless:** Sin estado entre request.
+
+## Interactividad
+- Manejo de eventos
+- Validaciones
+
+## Métodos HTTP
+
+- GET (Leer)
+- POST (Crear)
+- PUT (Reemplazo completo)
+- PATCH (Actualización parcial)
+- DELETE (Eliminar)
+
+## Status Codes
+
+- 200 OK
+- 201 Created
+- 204 No Content
+- 301, 302 (Redirecciones)
+- 400, 401, 403, 404, 409, 422 (Errores cliente)
+- 500, 502, 503 (Errores servidor)
+
 
 
 > [!NOTE]
@@ -127,14 +149,14 @@ Es un protocolo de comunicación bidireccional y persistente que permite el inte
 | Como enviar cartas, cada interacción abre-cierra.    | Como una llamada, se abre un canal y ambas partes hablan cuando quieran (chats, colaboración). |
 | Ideal para CRUD, caché y tooling maduro y más simple | Conexión persistente, baja latencia y más complejidad.                                         |
 #### <mark style="background: #ADCCFFA6;">PWA</mark>
-Progressive Web App es una aplicación web que se comporta como una app nativa, pero ejecutada desde el navegador. 
+Progressive Web App es una aplicación web que se comporta como una app nativa, pero ejecutada desde el navegador.
 **Características:**
-- Funciona en cualquier navegador. 
+- Funciona en cualquier navegador.
 - Se puede instalar en el dispositivo.
 - Carga rápida y alto mantenimiento.
 - Puede funcionar offline o con baja conexión.
 **Ventajas:**
 - Menor costo de desarrollo.
-- Multiplataforma. 
+- Multiplataforma.
 - Mejor experiencia de usuario.
-- No requiere descargas. 
+- No requiere descargas.
