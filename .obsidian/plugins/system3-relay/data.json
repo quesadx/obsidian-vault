@@ -35,9 +35,7 @@
   "enableMetadataViewHooks": true,
   "enableKanbanView": true,
   "debugging": false,
-  "login": {
-    "provider": "github"
-  },
+  "login": {},
   "enableSyncMenu": true,
   "enableAttachmentSync": true,
   "enableDocumentServer": true,
