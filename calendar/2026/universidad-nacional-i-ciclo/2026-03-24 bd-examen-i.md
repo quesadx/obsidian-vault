@@ -1,6 +1,0 @@
----
-title: bd-examen-i
-allDay: true
-date: 2026-03-24
-completed: null
----

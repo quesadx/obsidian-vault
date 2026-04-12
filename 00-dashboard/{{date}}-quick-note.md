@@ -3,7 +3,6 @@ Fecha: "{{date}}"
 moc:
 ---
 
-# {{Title}}
 
 
 
