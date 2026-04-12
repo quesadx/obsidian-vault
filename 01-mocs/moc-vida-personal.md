@@ -3,8 +3,8 @@ tags:
   - moc
   - vida-personal
   - bienestar
-created: 2026-03-19
-updated: 2026-03-19
+created: 19-03-2026
+updated: 19-03-2026
 ---
 # MOC Vida Personal
 

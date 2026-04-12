@@ -1,5 +1,5 @@
 ---
-Fecha: 2026-03-07
+Fecha: 07-03-2026
 moc: "[[moc-programacion-iv]]"
 Tags:
 ---

@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "c25305790b2f91d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be1cf12188dc07a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f51d893ff85b48f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "39a720fbca769eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-conceptos/x86_64-linux/25-02-2026-windows-11-qemu-virt-manager-setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25-02-2026-windows-11-qemu-virt-manager-setup"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b75c9adf0dc4ef81",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b06fcb322a6238e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb29910ae5ad46cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "94d75b00cbdf28fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "aprendizaje",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "89cb49fabb8d18ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "56f1b0555618d768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-universidad/EIF211-bases-de-datos/tareas/2026-03-10-laboratorio-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-10-laboratorio-1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5026054382324
+  },
+  "right": {
+    "id": "e072f6a61fa90c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "6abcb142fb858752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d96f67f0ecbd69a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-universidad/EIF209-programacion-iv/tareas/2026-03-07-dream-job-search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-03-07-dream-job-search"
+            }
+          },
+          {
+            "id": "efbd0a3ffc761c46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Rough notes/CachyOS Hyprland Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CachyOS Hyprland Setup"
+            }
+          },
+          {
+            "id": "60cc08c30e921062",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0aab90c711d8d85f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a8c58611081dd124",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Rough notes/CachyOS Hyprland Setup.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CachyOS Hyprland Setup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "system3-relay:Relay": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "39a720fbca769eb9",
+  "lastOpenFiles": [
+    "03-conceptos/x86_64-linux/moc-linux.md",
+    "03-conceptos/x86_64-linux/25-02-2026-cachyos-sway-setup.md",
+    "02-universidad/EIF212-sistemas-operativos/moc-sistemas-operativos.md",
+    "02-universidad/EIF209-programacion-iv/clases/23-02-2026-clase-2-web-interfaces.md",
+    "02-universidad/EIF209-programacion-iv/clases/21-02-2026-clase-1-desarrollo-web.md",
+    "02-universidad/EIF209-programacion-iv/clases/16-03-2026-clase-4-frameworks-frontend.md",
+    "calendar/2026-s1/assignments.ics",
+    "calendar/2026-s1/classes.ics",
+    "calendar/2026-s1/classes",
+    "calendar/2026-s1/assignments",
+    "calendar/2026-s1/assignments}",
+    "calendar/2026-s1/{classes,",
+    "calendar/2026-s1",
+    "07-excalidraw/2026-04-08 01.55.04.excalidraw.md",
+    "02-universidad/EIF212-sistemas-operativos/conceptos/2026-03-26-planificación-cpu.md",
+    "02-universidad/EIF211-bases-de-datos/conceptos/2026-03-22-práctica-examen.md",
+    "07-excalidraw/2026-03-23-examen-2024-er.excalidraw.md",
+    "02-universidad/EIF211-bases-de-datos/conceptos/2026-03-21-i-examen.md",
+    "02-universidad/EIF211-bases-de-datos/conceptos/2026-03-21-oracle.md",
+    "02-universidad/EIF211-bases-de-datos/clases/2026-02-16-clase-1.md",
+    "02-universidad/EIF211-bases-de-datos/clases/2026-03-02-leccion-3.md",
+    "02-universidad/EIF211-bases-de-datos/conceptos/2026-03-20-mongo-cloud.md",
+    "02-universidad/EIF212-sistemas-operativos/clases/2026-03-12-clase-4.md",
+    "files/exito-academico-tutorias/matematica-general/clase-4/clase-4-g04.pdf",
+    "files/exito-academico-tutorias/matematica-general/clase-4/clase-4-g05.pdf",
+    "02-universidad/EIF208-comunicaciones-redes/conceptos/2026-03-19-capa-3-red.md",
+    "02-universidad/EIF208-comunicaciones-redes/conceptos/2026-03-18-capa-2-enlace-de-datos.md",
+    "02-universidad/EIF208-comunicaciones-redes/conceptos/2026-03-18-capa-1-fisica.md",
+    "03-conceptos/x86_64-linux/2026-02-25-git-setup.md",
+    "03-conceptos/x86_64-linux/2026-02-25-windows-11-qemu-virt-manager-setup.md",
+    "02-universidad/EIF208-comunicaciones-redes/clases/2026-03-19.md",
+    "01-mocs/moc-vida-personal.md",
+    "00-dashboard/{{date}}-quick-note.md",
+    "02-universidad/EIF208-comunicaciones-redes/clases/2026-02-26-clase-2.md",
+    "03-conceptos/x86_64-linux/2026-02-25-fedora-setup.md",
+    "03-conceptos/x86_64-linux",
+    "Source/Pasted image 20260319000556.png",
+    "Source/Pasted image 20260319000413.png",
+    "Source/Pasted image 20260318170539.png",
+    "Source/Pasted image 20260316231050.png",
+    "Source/Pasted image 20260316230811.png",
+    "Source/Pasted image 20260313153044.png",
+    "Source/Pasted image 20260313152347.png",
+    "02-universidad/EIF212-sistemas-operativos/Untitled.canvas",
+    "Source/Pasted image 20260307010720.png",
+    "Pasted image 20260130165553.png"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "folder": "06-diario",
+  "format": "DD-MM-YYYY",
+  "template": "00-dashboard/{{date}}-quick-note"
+}

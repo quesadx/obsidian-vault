@@ -1,7 +1,7 @@
 ---
 tags: [meta, referencia, convenciones]
-created: 2026-03-06
-updated: 2026-03-06
+created: 06-03-2026
+updated: 06-03-2026
 ---
 
 # 📋 Convenciones del Vault

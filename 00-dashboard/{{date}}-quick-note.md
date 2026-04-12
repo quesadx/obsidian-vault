@@ -1,5 +1,5 @@
 ---
-Fecha: "{{date}}"
+Fecha: "{{date:DD-MM-YYYY}}"
 moc:
 ---
 
