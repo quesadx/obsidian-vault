@@ -1,6 +1,7 @@
 ---
-tags:
-  - recurso
+- recurso
+tags: [recurso, linux, x86_64]
+moc: "[[moc-linux]]"
 created: 25-02-2026
 updated: 06-03-2026
 ---
