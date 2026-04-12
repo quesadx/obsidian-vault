@@ -13,8 +13,8 @@
             "state": {
               "type": "3d_graph_view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
             }
           },
           {
