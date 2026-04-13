@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7be1cf12188dc07a",
+        "id": "d11538acabfb99fa",
         "type": "tabs",
         "children": [
           {
-            "id": "f51d893ff85b48f0",
+            "id": "fd4b0fa7dff0625e",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "c98c01461d224255",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-universidad/EIF212-sistemas-operativos/conceptos/12-04-2026-libro-capitulo-1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "3D-Graph"
+              "title": "12-04-2026-libro-capitulo-1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,8 +200,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c98c01461d224255",
+  "active": "fd4b0fa7dff0625e",
   "lastOpenFiles": [
+    "agent.md",
+    "02-universidad/EIF212-sistemas-operativos/conceptos/26-03-2026-planificación-cpu.md",
+    "02-universidad/EIF212-sistemas-operativos/conceptos/12-04-2026-libro-capitulo-1.md",
+    "02-universidad/EIF212-sistemas-operativos/conceptos/19-02-2026-sistema-operativo.md",
     "02-universidad/EIF211-bases-de-datos/moc-bases-de-datos.md",
     "02-universidad/EIF211-bases-de-datos/conceptos/21-03-2026-oracle.md",
     "07-excalidraw/23-03-2026-examen-2024-er.excalidraw.md",
@@ -238,12 +235,8 @@
     "02-universidad/EIF211-bases-de-datos/conceptos/2026-03-21-oracle.md",
     "02-universidad/EIF211-bases-de-datos/clases/2026-02-16-clase-1.md",
     "02-universidad/EIF211-bases-de-datos/clases/2026-03-02-leccion-3.md",
-    "02-universidad/EIF211-bases-de-datos/conceptos/2026-03-20-mongo-cloud.md",
-    "02-universidad/EIF212-sistemas-operativos/clases/2026-03-12-clase-4.md",
     "files/exito-academico-tutorias/matematica-general/clase-4/clase-4-g04.pdf",
     "files/exito-academico-tutorias/matematica-general/clase-4/clase-4-g05.pdf",
-    "02-universidad/EIF208-comunicaciones-redes/conceptos/2026-03-19-capa-3-red.md",
-    "02-universidad/EIF208-comunicaciones-redes/conceptos/2026-03-18-capa-2-enlace-de-datos.md",
     "03-conceptos/x86_64-linux",
     "Source/Pasted image 20260319000556.png",
     "Source/Pasted image 20260319000413.png",
