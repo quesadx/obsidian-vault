@@ -21,10 +21,10 @@
             "id": "c98c01461d224255",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "3d_graph_view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "3D-Graph"
             }
           }
         ],
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5026054382324
+    "width": 316.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "e072f6a61fa90c90",
