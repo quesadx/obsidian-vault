@@ -10,5 +10,6 @@
   "showLineNumber": false,
   "showIndentGuide": true,
   "vimMode": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheck": false
 }
