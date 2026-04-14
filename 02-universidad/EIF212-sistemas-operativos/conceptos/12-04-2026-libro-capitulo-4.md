@@ -9,7 +9,7 @@ moc: "[[moc-sistemas-operativos]]"
 
 Un hilo es la unidad básica de utilización de la CPU. Comprende:
 
-- ID de hebra
+- ID de hilo
 - Contador de programa
 - Conjunto de registros
 - Pila
