@@ -1,0 +1,25 @@
+Git branches: Es posible que empecemos a usar branches en el SIPROCU, ya que
+anteriormente no se usaba (OK)
+
+- Explorar a arturo
+
+- Ejecute la accion yo nos dice cuantos cursos abrir el otro ciclo, en base a cuantos aprobaron
+- 	Tienen que cargar las mallas de las carreras, requisitos y correquisitos. 
+
+Al suave saber cuantos pasaron y cuantos no, ir creando un historial de los estudiantes, para saber cuantos pasaron y cuantos no.
+
+
+1) Que podamos modificar cosas
+2) Quiero trabajar en dos cosas: sismologia (red neuronal en pytorch, se alimenta de sismos, carga los datasets y logra clasificar los sismos y cuando no, ibamos a hacer algo con el ovsicori, tienen mucha info, hay veces que un sismo el osciloscopio brinca y luego se estabiliza, pero mientras supuestamente es estable, ahi hay supuestos sismos no apreciables a simple vista (considerados ruido, siempre hay de fondo) y él logró montar unos datasets, eso ocupan que hagamos)
+3) lo otro es que ayudemos a elvis a buscar informacion, una cuestion con una gente de SJ que es como detectar SDC (silent data corruption), cuando las cosas fallan pero no se cae) un asistente se esta encargando de eso, ocupa buscar informacion de articulos sobre eso, sobre el qué pasa si se le da un bit flip
+4) analizar grupos de personas con inteligencia artificial. por ejemplo: supongase tenemos una red neuronal con una camara grabando al grupo de sistemas operativos, y por IA el empieza a detectar las caras, pero la clase dura 4 horas, y cuanod ven a aryel está muy feliz por que la profe esta dando clases, y alex esta distraido, y analizar los temas y actividades dadas por el profe a la red neuronal, entonces que me den el nivel de satisfacción, la idea aca es determinar como hacer eso, que software uso, que software utilizo y demas (siempre todo lo hacen en python pero con nivel inferior de lenguajes de bajo nivel)
+
+Tasks:
+- Calcular jornadas, horas (SIPROCU), hay diferentes tipos de nombramiento (cateogiras de profe, instructor, profesor 1, 2, 2.5, etc...) dependiendo de la categoria son diferentes, un profe puede dar 3 cursos y es tiempo completo, pero hay otro profe que da 3 cursos y son 3/4 de tiempo, el sistema tiene que saber hacer eso. La idea es generar un reporte!
+- Uno de nosotros se va a encargar de buscar informacion sobre como detectar patrones en personas (analisis de sentimientos PLN de machine learning), articulos de la ACM --asociation of computing machinery) una base de datos y sale el acm ahi, acm digital library (compartirle el profe qué encontramos)
+- Lo de los sismos ya mencionado antes, para lo de los sismos el profe quiere lo de kabré
+- opt: al profe le gustaria como poner una pantalla tactil en la entrada, y que se vea la U en 3D, y usted quiere ir al ciuna, y se mete por todos los lados llevando como guiado (anda loco el profe aqui)
+
+notas:
+
+slurm (cluster management) para resource management, eso reparte recursos, es interesante
