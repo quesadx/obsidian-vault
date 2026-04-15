@@ -43,8 +43,25 @@ Comparación clave:
 
 ## 2. Algoritmos de Planificación (Apropiativos y No-apropiativos)
 
-- FCFS (First-Come, First-Served): no-apropiativo
-- SJF (Shortest Job First): puede ser no-apropiativo o apropativo
+### FCFS (First-Come, First-Served): no-apropiativo
+
+Cuando se crea toma el CPU y se termina por completo, si ya había uno en ejecución simplemente se suma a la cola.
+
+### SJF (Shortest Job First): puede ser no-apropiativo
+
+ Se ejecuta el trabajo más corto corto primero. Si ya hay uno en ejecución, se coloca en la cola (de forma ordenada en base al tiempo pendiente).
+
+### Por prioridades: no-apropiativo
+
+Lo mismo que los anteriores pero, la cola se basa en fundamentación al nivel de prioridad. Si hay dos en la cola con la misma prioridad, se toma en cuenta el tiempo de ejecución.
+
+### Round-robin: apropiativo
+
+Los procesos se van ejecutando con quantums pre-definidos.
+
+### SRTF (Shortest remaining time first): apropiativo
+
+
 - Round Robin: apropativo
 - Prioridad: puede ser no-apropiativo o apropativo
 

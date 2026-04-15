@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5026054382324,
-    "collapsed": true
+    "width": 316.5026054382324
   },
   "right": {
     "id": "e072f6a61fa90c90",
@@ -195,23 +194,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "3d-graph:3D Graph": false
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "16a25793c5c7f975",
   "lastOpenFiles": [
+    "02-universidad/UEA-tutorias/15-04-2026-accesos-directos-ejecutable",
     "02-universidad/EIF212-sistemas-operativos/conceptos/12-04-2026-libro-capitulo-4.md",
     "02-universidad/EIF212-sistemas-operativos/conceptos/12-04-2026-libro-capitulo-5.md",
+    "02-universidad/EIF212-sistemas-operativos/conceptos/12-04-2026-libro-capitulo-2.md",
+    "02-universidad/EIF212-sistemas-operativos/conceptos/12-04-2026-libro-capitulo-1.md",
     "02-universidad/EIF212-sistemas-operativos/conceptos/19-02-2026-sistema-operativo.md",
     "02-universidad/EIF211-bases-de-datos/clases/14-04-2026-sql.md",
     "02-universidad/SIPROCU/moc-siprocu.md",
     "02-universidad/SIPROCU/14-04-2026-reunion-notas.md",
     "02-universidad/SIPROCU/14-04-2026-siprocu-notas.md",
     "02-universidad/EIF212-sistemas-operativos/conceptos/12-04-2026-libro-capitulo-3.md",
-    "02-universidad/EIF212-sistemas-operativos/conceptos/12-04-2026-libro-capitulo-2.md",
-    "02-universidad/EIF212-sistemas-operativos/conceptos/12-04-2026-libro-capitulo-1.md",
     "07-excalidraw/2026-04-13 11.36.09.excalidraw.md",
     "agent.md",
     "02-universidad/EIF212-sistemas-operativos/conceptos/26-03-2026-planificación-cpu.md",
@@ -227,7 +225,6 @@
     "03-conceptos/x86_64-linux/25-02-2026-cachyos-sway-setup.md",
     "02-universidad/EIF212-sistemas-operativos/moc-sistemas-operativos.md",
     "02-universidad/EIF209-programacion-iv/clases/23-02-2026-clase-2-web-interfaces.md",
-    "02-universidad/EIF209-programacion-iv/clases/21-02-2026-clase-1-desarrollo-web.md",
     "calendar/2026-s1/assignments.ics",
     "calendar/2026-s1/classes.ics",
     "calendar/2026-s1/classes",
