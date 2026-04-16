@@ -80,3 +80,11 @@ Cuandos varios procesos acceder o manipulan los datos de forma concurrente, el r
 
 Es una falla que ocurre cuando el resultado final de un proceso depende del orden específico o de la velocidad en la que se ejecutan hilos o procesos. Ocurren cuando dos o más procesos intentan tocar un recurso compartido.
 
+---
+
+# “El Rey Nunca Comparte”
+
+- **E** → Exclusión mutua
+- **R** → Retención y espera
+- **N** → No apropiación
+- **C** → Circular
