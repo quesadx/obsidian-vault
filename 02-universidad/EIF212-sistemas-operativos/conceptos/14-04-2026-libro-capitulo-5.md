@@ -65,6 +65,11 @@ Los procesos se van ejecutando con quantums pre-definidos.
 - Round Robin: apropativo
 - Prioridad: puede ser no-apropiativo o apropativo
 
+
+> Respuesta: Desde que se crea hasta que termina
+> Espera: Tiempo acumulado en espera
+> Penalización: Respuesta / Tiempo CPU
+
 ---
 
 ## 3. Colas Multinivel

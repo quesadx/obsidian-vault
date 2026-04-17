@@ -88,3 +88,5 @@ Es una falla que ocurre cuando el resultado final de un proceso depende del orde
 - **R** → Retención y espera
 - **N** → No apropiación
 - **C** → Circular
+
+Generalmente se quita la circular para proponer un orden gerárquico.
