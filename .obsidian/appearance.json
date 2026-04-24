@@ -3,5 +3,7 @@
   "accentColor": "",
   "showViewHeader": true,
   "showRibbon": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }
