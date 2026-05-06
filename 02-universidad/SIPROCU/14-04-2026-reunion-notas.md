@@ -6,7 +6,7 @@ tags:
 created: 14-04-2026
 updated: 14-04-2026
 ---
-# Notas Reunión SIPROCU - 14-04-2026
+# Notas Reunión SIPROCU #1
 
 ## Control de Versiones
 - Git branches: Se está considerando comenzar a usar branches en SIPROCU (anteriormente no se usaba)
